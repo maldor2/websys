@@ -1,0 +1,11 @@
+Robert Maldonado
+READ ME
+
+Part 1: I seperated each song into different p tag to read easier. After reading through the assignment I am going to want to make the plain text into divs for later. 
+
+Part 2: I found a CD catalog XML example on W3schools.com. And I based this simple XML on that. You cant really store images in XML so I just put in the address of it. For the links those wont be put in until part 4.
+
+Part3: I added div classes to the different element of the HTML to be able to spefify what things to do in the CSS file. Then I went through and made the classes do the things specified.
+
+Part4:
+

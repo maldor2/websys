@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILE xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab1"> lab1</Title>
+		<Descrip>Introduced XAMPP and how to use it </Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab2"> lab2</Title>
+		<Descrip>Made a playlist </Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab3"> lab3</Title>
+		<Descrip>JavaScript and DOM </Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab4"> lab4</Title>
+		<Descrip>jQuery/JSON/AJAX</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab5"> lab5</Title>
+		<Descrip>Description of lab 5</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab6"> lab6</Title>
+		<Descrip>Description of lab 6</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab7"> lab7</Title>
+		<Descrip>Description of lab 7</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab8"> lab8</Title>
+		<Descrip>Description of lab 8</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab9"> lab9</Title>
+		<Descrip>Description of lab 9</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\labs\lab10"> lab10</Title>
+		<Descrip>Description of lab 10</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\homeworks\homework1"> homework1</Title>
+		<Descrip>Resume</Descrip>
+	</Asmt>
+	<Asmt>
+		<Title xlink:type="simple" xlink:href="C:\xampp2\htdocs\websys\projects\homeworks\homework2"> homework2</Title>
+		<Descrip>Description of homework 2</Descrip>
+	</Asmt>
+
+</FILE>
+

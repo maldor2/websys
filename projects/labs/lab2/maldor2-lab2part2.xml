@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PLAYLIST>
+	<Song>
+		<Title> Billie Jean</Title>
+		<Artist> Michael Jackson</Artist>
+		<Album>Thriller</Album>
+		<Image>thriller.jfif</Image>
+		<Year> 1983</Year>
+		<Genre>R&B</Genre>
+	</Song>
+	<Song>
+		<Title> Yesterday</Title>
+		<Artist> The Beatles</Artist>
+		<Album>Help!</Album>
+		<Image>help.jfif</Image>
+		<Year> 1965</Year>
+		<Genre>Rock</Genre>
+	</Song>
+	<Song>
+		<Title> Aint No Mountain High Enough</Title>
+		<Artist> Marvin Gaye</Artist>
+		<Album>United</Album>
+		<Image>utd.jfif</Image>
+		<Year> 1967</Year>
+		<Genre>Soul</Genre>
+	</Song>
+	<Song>
+		<Title> Wagon Wheel</Title>
+		<Artist> Darius Rucker</Artist>
+		<Album>True Believer</Album>
+		<Image>true.jfif</Image>
+		<Year> 2013</Year>
+		<Genre>Country</Genre>
+	</Song>
+	<Song>
+		<Title> I Aint Mad At Cha</Title>
+		<Artist> Tupac</Artist>
+		<Album>All Eyez On Me</Album>
+		<Image>eyez.jfif</Image>
+		<Year> 1996</Year>
+		<Genre>Rap</Genre>
+	</Song>
+	<Song>
+		<Title> El Cantante</Title>
+		<Artist> Hector Lavoe</Artist>
+		<Album>Comedia</Album>
+		<Image>comedia.jpeg</Image>
+		<Year> 1978</Year>
+		<Genre>Latin</Genre>
+	</Song>
+</PLAYLIST>
+
